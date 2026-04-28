@@ -1,1 +1,1 @@
-# Group-project_Hardware-Ecosystem-analysis-
+This repository contains a comprehensive technical report titled "Operating Systems and System Programming: Hardware Ecosystem," submitted by Group 7 (Section B) of the Software Engineering Department at Bahir Dar Institute of Technology. The project explores the critical intersection between hardware components and the operating systems that manage them, focusing on four key industry leaders.  # Group-project_Hardware-Ecosystem-analysis-
